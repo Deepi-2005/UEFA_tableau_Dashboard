@@ -24,7 +24,8 @@ You can explore the interactive version here:
 ## 🖼 Preview Screenshot
 Below is a preview of the dashboard (static image). For interactive experience, use the Tableau Public link above.
 
-![UEFA Champions League Dashboard](images/uefa_dashboard.png)
+<img width="1888" height="841" alt="uefa_dashboard png" src="https://github.com/user-attachments/assets/b83398d1-6218-4146-8c00-70cf444e252a" />
+
 
 ---
 
